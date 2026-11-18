@@ -11,7 +11,7 @@ For two years I was the sole AI engineer of an industrial computer-vision progra
 | [tt-toolkit](https://github.com/vittorio-prodomo/tt-toolkit) | Config-driven training, evaluation and deployment of instance-segmentation models (RF-DETR-Seg, Mask2Former, YOLO-seg): on-the-fly tiling, exact multi-GPU mAP, ONNX/TensorRT export |
 | [dt-toolkit](https://github.com/vittorio-prodomo/dt-toolkit) | Command-line building blocks for detection and segmentation datasets: convert, tile, filter, merge, split; FiftyOne and CVAT bridges |
 | [se-toolkit](https://github.com/vittorio-prodomo/se-toolkit) | Sweeps of sliced-inference hyperparameters scored against ground truth |
-| [cocoyolo](https://github.com/vittorio-prodomo/cocoyolo) | COCO ↔ YOLO dataset converter |
+| [cocoyolo](https://github.com/vittorio-prodomo/cocoyolo) | COCO ↔ YOLO dataset label format converter |
 
 ## Upstream contributions and security
 
