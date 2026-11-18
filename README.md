@@ -2,7 +2,7 @@
 
 AI engineer working on computer vision, document AI and MLOps, with a Ph.D. in privacy-preserving machine learning. Based in Naples, Italy.
 
-2+ years of experience as AI engineer in an industrial computer-vision programme for the inspection of concrete bridges from drone and robot imagery. In 2026 I also worked on a document-AI pipeline that reads a scanned archive of almost 8,000 historical test certificates with vision-language models.
+For two years I was the sole AI engineer of an industrial computer-vision programme for the inspection of concrete bridges from drone and robot imagery. In 2026 I also designed a document-AI pipeline that reads a scanned archive of almost 8,000 historical test certificates with vision-language models.
 
 ## Toolkits
 
@@ -24,9 +24,14 @@ The ML forks on this account (RF-DETR, SAHI, FiftyOne, CVAT and others) carry th
 
 ## Research
 
-- [SCIPER: Secure Collaborative Inference via Privacy-Enhancing Regularization](https://doi.org/10.1109/TP.2024.3513254), IEEE Transactions on Privacy, 2024
 - [Towards the integration of Privacy-Preserving technologies in future mobile networking](https://doi.org/10.1016/j.comcom.2026.108445), Computer Communications, 2026
+- [Privacy-Preserving Data Obfuscation for Credit Scoring](https://doi.org/10.1145/3672608.3707864), ACM/SIGAPP Symposium on Applied Computing (SAC), 2025
+- Automated Multiclass Damage Detection in RC Bridges Using Drone Imagery and Deep Learning Models, Conference on Artificial Intelligence in Structural Engineering (ARISTE), 2025
+- [SCIPER: Secure Collaborative Inference via Privacy-Enhancing Regularization](https://doi.org/10.1109/TP.2024.3513254), IEEE Transactions on Privacy, 2024
+- [Trading Accuracy for Privacy in Machine Learning Tasks: An Empirical Analysis](https://doi.org/10.1109/CNS53000.2021.9729036), IEEE Conference on Communications and Network Security (CNS), 2021 (poster paper)
 - U.S. Patent 12,651,167 B2, "Privacy Preservation in Neural Networks", 2026
+
+Two more papers are under review.
 
 ## Elsewhere
 
