@@ -2,7 +2,7 @@
 
 AI engineer working on computer vision, document AI and MLOps, with a Ph.D. in privacy-preserving machine learning. Based in Naples, Italy.
 
-For two years I was the sole AI engineer of an industrial computer-vision programme for the inspection of concrete bridges from drone and robot imagery. In 2026 I also designed a document-AI pipeline that reads a scanned archive of almost 8,000 historical test certificates with vision-language models.
+2+ years of experience as AI engineer in an industrial computer-vision programme for the inspection of concrete bridges from drone and robot imagery. In 2026 I also worked on a document-AI pipeline that reads a scanned archive of almost 8,000 historical test certificates with vision-language models.
 
 ## Toolkits
 
